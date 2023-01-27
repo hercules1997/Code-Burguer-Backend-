@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Primeiro exercicio node JS",
   "main": "index.js",
-    "module": "module",
   "engines": {
     "node": "14.x"
   },
